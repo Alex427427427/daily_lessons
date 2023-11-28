@@ -1,0 +1,50 @@
+1. I am not good at being intentional with my time. 
+I spent 4 hours browsing the Foundation novel series, 
+knowing but ignoring that I need sleep and need to 
+complete some tasks, such as recruit project PCB review, 
+and project requirement writing. 
+
+2. The decrease of reaction time between having 8 hours of sleep and 6 hours of sleep, 
+is as much as having 4 standard drinks
+
+3. Latent spaces are good for representation. 
+They compress states from high dimensional low level information
+to low dimensional high level entities that are place at appropriate relative
+locations in the space, where rich relational information between states/concepts 
+are encapsulated. 
+
+4. Jet planes differ from propeller planes.
+Propeller planes use the blade rotation to push on air directly for forward thrust. 
+Jet planes use the blades only as air intake, but sprays jet fuel into that air and 
+ignites it so that the air explodes and exit the back of the jet engines, 
+pushing the plane forward. 
+
+5. You can use a long elastic band attached to distant trees to accelerate hobby planes to 
+a desired speed. 
+
+6. When you attach two balloons to each other, each with a different size, 
+air will flow from the smaller balloon into the bigger balloon.
+Recall that it is difficult to blow into a balloon while it is small, 
+and the task gets easier as the balloon becomes inflated. 
+The thickness of balloon wall dictates the tenstion within, 
+and the pressure it can withstand for the air inside. 
+Air inside a small balloon necessarily has higher pressure than air inside a larger balloon. 
+(When intuition says that more air in a container means higher pressure. Forgetting about the gas laws that it is not always the case.)
+Hence air flows from the smaller balloon to the bigger one, with acceleration. 
+
+7. Z-X cam is more advanced but uses GMSL, while Z-2 cam is less, but is USB based. 
+
+8. Non-linearity. The transition from superimposing, overlapping ghostly processes into interacting processes. 
+Where inter-process causality arises.  
+
+9. Non-linear algebra framework as powerful and tractable as linear-algebra, possible? 
+
+10. Half integer spin -> electrons wrapping around an orbit twice to meet itself. Significance? 
+
+11. Dynamical Motion Primitives. A framework for defining low level motion primitives for action sequencing.
+
+12. Permutation network + Sinkhorn (softmax for permutations) essentially performing self attention; Michael Burke has implemented a transformer.
+
+13. There are two routes to do research. 
+one - look at existing literature, apply idea to new domain, solve problems that arise, demonstrate novelty of the final solution. Nice little nugget.
+two - start with a claim, then test. 
