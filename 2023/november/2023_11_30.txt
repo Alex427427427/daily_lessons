@@ -1,0 +1,30 @@
+1. I am not good at parsing heard sentences. 
+
+2. Accept everything that has happened, beauty and terror. 
+Just keep going; no feeling is final. 
+
+3. I have so much to learn even in a narrow field. 
+
+4. The IEEE is the Institute of Electrical and Electronics Engineers. 
+The RAS is the Robotics and Automation Society of the IEEE. 
+
+5. Adcom = Administrative Committee
+
+6. Excom = Executive Committee
+
+7. sautee = light frying
+
+8. Z-X cam has depth sensing using stereo cameras. 
+Some machine vision solutions take LIDAR and reconstruct a depth image, for better training results. 
+
+9. FurnitureSim scripted assembly uses a finite state machine to keep track of the current skill that needs to be performed. 
+
+10. Dynamic Motion Primitives are small mathematical modules that reproduce a specific trajectory shape dynamically, implemented with overlapping
+Gaussian activation functions, taking in a canonical (hidden, core) system and outputting the forcing term to reproduce the trajectory. 
+By changing certain parameters, the DMP module can carry out the essence of a trajectory across spatio-temporal scaling, and even obstacle avoidance. 
+
+11. Operational Space Control (OSC) is FK IK + Dynamics + feedback control
+
+12. POE is a method of powering and delivering signals to a device.
+Ethernet is usually suited for 1 to 1 communication. 
+Multiple devices require a switch. 
