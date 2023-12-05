@@ -1,0 +1,40 @@
+1. Inverse Reinforcement Learning is the problem and types of solutions concerned with learning a reward function given existing agents' behaviours. 
+A reward function takes in a state action pair and outputs a reward. 
+
+2. I am feeling the natural growing pains of realising/reaping the consequences of my erroneous ways.
+
+3. It is possible to use a surrogate objective in preference learning to train a model that recognises expanded rewards of states, when the original problem has 
+very sparse rewards. 
+
+4. I am miserable when I feel trapped with my time, and incompetence. 
+
+5. In a BLDC motor, a voltage signal is a differential signal to current. 
+
+6. Research directions: 
+a. use preference learning, labelled using a surrogate objective, to assign distributed reward on the frames of the training data. 
+(An encoder compresses the scene into a latent vector; a decoder reconstructs the scene to compare with the orignal input, to verify that the compression into latent space 
+captures all important aspects of the scene. (All? What if just the object locations are captured?))
+Then train an optimal policy using that distributed reward function, perhaps using curriculum learning, to show any improvement over the single tasks. 
+b. use a transformer to predict a reward. 
+c. use a transformer to chain together hard coded low level skills. Probably not gonna happen. 
+
+7. Michael Burke doesn't feel too constrained by roboic hardware; nor does he feel constrained by compute, because 
+the amount and quality of data isn't there yet for such concerns to be relevant. 
+What is hindering the collection of data? 
+
+8. The robots are shit. There are many low hanging fruits. But because of that, the space is competitive. 
+Almost anything you do could be a contribtion. 
+
+9. Robotics industry is difficult. You either try to solve everything, or constrict your problem space until the customer set is so small. 
+Until robots become general purpose, it is hard to make viable companies. 
+
+10. Kubernetes is an orchestrator of containers. Jobs can be submitted to it, which can deploy containers on the machines - nodes - in a cluster.
+
+11. There are almost no reasons to have a child. (Other than peer pressure, or FOMO, or guilt of not fulfilling an important function of humanity.)
+Someone said that the main reason is to experience what loving feels like. (But what I am loving may not love me back?)
+
+12. Turbulence vortices distribute energy from the large scale down to the small scale, in 3D. A single large vortex becomes a stack of smaller vortices, 
+stacked along the rotation axis. Turbulence couples the largest scales down to the smallest scales. 
+
+13. A millenium prize problem: Prove or provide a counter-example that the navier stokes equations have smooth and globally defined solutions
+for all initial conditions. (pressure and velocity field.)
